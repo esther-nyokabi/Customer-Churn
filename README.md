@@ -1,1 +1,3 @@
-# Customer-Churn
+# Customer Churn Analysis
+This repository presents a comprehensive analysis of customer churn in a California-based telecommunications company during Q2 2022. Leveraging a dataset of 7,043 customers, we explore the key factors influencing churn, including demographic data, subscription services, and tenure. Our findings reveal that longer customer tenures correlate with reduced churn, and subscription service choices impact churn rates. This analysis provides actionable insights to aid in churn reduction strategies, assisting telecom companies in enhancing customer retention. 
+Feel free to explore the Google Colab notebook for a detailed breakdown of our findings and methodology.
